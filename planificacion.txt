@@ -1,1 +1,3 @@
 maquetacion del proyecto para la automatizacion de la contabilidad econmica del departamento
+
+primero maqueto como va a estar orgamizada la pagina y luego que funciones va a tener
